@@ -1,0 +1,5 @@
+{   
+    // to get python interpreter path , use : conda activate envName && which python
+    "python.defaultInterpreterPath":"/home/marie/anaconda3/envs/car/bin/python", //make sure that VSCode is using the virtualenv "car",  to fix Import could not be resolved from source
+    "python.terminal.activateEnvironment": true,  // to auto activate virtual environment in Visual Studio Code 
+}
